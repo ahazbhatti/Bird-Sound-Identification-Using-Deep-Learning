@@ -1,1 +1,2 @@
 # Bird-Sound-Identification-Using-Deep-Learning
+This project's main goal is to build a full scale application, which is based on advanced deep learning models to help classify birds automatically, based on their sounds. Moreover, the collection of data, classification tasks, and monitoring of different bird species will be less time and resource-consuming for scientists since deep learning models can help automate the process for identification of these species.
